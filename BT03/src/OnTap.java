@@ -5,7 +5,7 @@ import static java.util.Scanner.*;
 public class OnTap{
 
     static int number = 100;
-    public static void sosanh()
+    public static void compare()
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please input value n:");
@@ -13,14 +13,10 @@ public class OnTap{
 
         if (n == number)
             System.out.println("This value is equal to 100.");
-        else if ( n > number) {
+        else if ( n > number)
             System.out.println("This value is larger than 100.");
-        }
-        else if (n < number) {
-            System.out.println("This value is smaller than 100.");
-        }
         else
-            System.out.println("This value is not valid.");
+            System.out.println("This value is smaller than 100.");
     }
 
 
@@ -36,7 +32,7 @@ public class OnTap{
         System.out.println((expectedText == actualText) && (a < b));
         System.out.println((expectedText != actualText) || (a < b));
 
-        sosanh();
+        compare();
 
     }
 
