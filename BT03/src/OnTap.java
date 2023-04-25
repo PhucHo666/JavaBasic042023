@@ -7,7 +7,7 @@ public class OnTap{
     public static void compare()
     {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Please input value n:");
+        System.out.println("Please input value of n:");
         double n = sc.nextDouble();
 
         if (n == number)
