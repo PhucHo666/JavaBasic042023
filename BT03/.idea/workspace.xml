@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bab2593a-652e-451d-95b9-5ddcb13e5149" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OnTap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OnTap.java" afterDir="false" />
-    </list>
+    <list default="true" id="bab2593a-652e-451d-95b9-5ddcb13e5149" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682417086191</updated>
-      <workItem from="1682417087368" duration="3631000" />
+      <workItem from="1682417087368" duration="3907000" />
     </task>
     <servers />
   </component>
